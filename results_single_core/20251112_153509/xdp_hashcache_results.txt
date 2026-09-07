@@ -1,0 +1,25 @@
+Statistics:
+
+  Queries sent:         196
+  Queries completed:    159 (81.12%)
+  Queries lost:         37 (18.88%)
+
+  Response codes:       NOERROR 135 (84.91%), SERVFAIL 2 (1.26%), NXDOMAIN 22 (13.84%)
+  Average packet size:  request 32, response 46
+  Run time (s):         64.538510
+  Queries per second:   2.463645
+
+  Average Latency (s):  0.916267 (min 0.000028, max 13.178317)
+  Latency StdDev (s):   1.639238
+
+
+----- PERF METRICS -----
+
+ Performance counter stats for process id '1':
+
+      283500886128      cycles                                                      
+      564279048424      instructions              #    1.99  insn per cycle         
+
+      74.672387911 seconds time elapsed
+
+Cycles per Query: 1783024441
