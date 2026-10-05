@@ -1,9 +1,5 @@
 # DNS Resolver using AF-XDP
 
-## Report: [`G21_31_DNS Resolver using AF_XDP Report.pdf`](./G21_31_DNS%20Resolver%20using%20AF_XDP%20Report.pdf)
-
-## Presentation: [`G21_31_DNS Resolver using AF_XDP PPT.pdf`](./G21_31_DNS%20Resolver%20using%20AF_XDP%20PPT.pdf)
-
 ## Replicating Results
 
 To run all tests, run these commands on the host terminal:
